@@ -7,17 +7,17 @@ h2 {
 
 @font-face {
     font-family: CRC35;
-    src: url(/fonts/CRC35.otf)
+    src: url(fonts/CRC35.otf)
 }
 
 @font-face {
     font-family: CRC55;
-    src: url(/fonts/CRC55.otf)
+    src: url(fonts/CRC55.otf)
 }
 
 @font-face {
     font-family: CRC75;
-    src: url(/fonts/CRC75.otf)
+    src: url(fonts/CRC75.otf)
 }
 
 section, footer {
@@ -55,7 +55,7 @@ section, footer {
     padding-left: 50px;
     padding-right: 50px;
     padding-bottom: 30px;
-    background-image: url(/images/bg-triangle.png);
+    background-image: url(images/bg-triangle.png);
     background-position: center;
     background-size: cover;
     background-color: #e3e3e3;
@@ -670,17 +670,17 @@ p.cost-main-button a {
 
 @font-face {
     font-family: CRC35;
-    src: url(/fonts/CRC35.otf)
+    src: url(fonts/CRC35.otf)
 }
 
 @font-face {
     font-family: CRC55;
-    src: url(/fonts/CRC55.otf)
+    src: url(fonts/CRC55.otf)
 }
 
 @font-face {
     font-family: CRC75;
-    src: url(/fonts/CRC75.otf)
+    src: url(fonts/CRC75.otf)
 }
 
 body {
@@ -1232,7 +1232,7 @@ p.logo {
     float: right;
     height: 1000px;
     transform: skew(-35deg);
-    background: #333 url(/images/3.jpg) repeat;
+    background: #333 url(images/3.jpg) repeat;
     background-size: cover;
     position: absolute;
     top: 0;
@@ -1250,7 +1250,7 @@ p.logo {
     float: left;
     height: 1800px;
     transform: skew(-35deg);
-    background: #333 url(/images/bk3.jpg) repeat;
+    background: #333 url(images/bk3.jpg) repeat;
     position: relative;
     top: 126px;
     z-index: 9;
@@ -1407,7 +1407,7 @@ p.logo {
     bottom: 0;
     margin-right: -2000px;
     transform: skew(-35deg);
-    background-image: url(/images/bk3.jpg);
+    background-image: url(images/bk3.jpg);
     background-repeat: repeat
 }
 
@@ -1726,7 +1726,7 @@ textarea {
 }
 
 .heading {
-    background-image: url(/images/head-bg-1.jpg)!important;
+    background-image: url(images/head-bg-1.jpg)!important;
     background-size: cover;
     background-position: center;
     height: 200px
@@ -3903,7 +3903,7 @@ p.cost-main-button, p.cost-main-button-2 {
         padding: 5px 15px;
         text-decoration: none;
         margin-top: 8px;
-        background-image: url(/images/icon/call-answer.png);
+        background-image: url(images/icon/call-answer.png);
         background-size: 23px;
         background-position-x: 3px;
         background-position-y: 2px;
@@ -5038,7 +5038,7 @@ ul.tabs {
 }
 
 .video-bg {
-    background-image: url(/images/notebook.png);
+    background-image: url(images/notebook.png);
     background-size: 100%;
     background-repeat: no-repeat;
     max-width: 554px;
@@ -5186,7 +5186,7 @@ ul.tabs {
     padding-left: 50px;
     padding-right: 50px;
     padding-bottom: 30px;
-    background-image: url(/images/bg-triangle.png);
+    background-image: url(images/bg-triangle.png);
     background-position: center;
     background-size: cover;
     background-color: #e3e3e3
@@ -10250,7 +10250,7 @@ button.close {
     top: 0;
     height: 100%;
     font-size: 16px;
-    background-image: url(/images/bg2.png);
+    background-image: url(images/bg2.png);
     background-position: top center;
     background-size: cover;
     background-repeat: no-repeat;
